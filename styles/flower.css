@@ -92,3 +92,17 @@ body{
     font-size: 24px;
     text-decoration: underline;
 }
+
+.services-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 80px 150px;
+    text-align: center;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 0 120px 120px 120px;
+}
+
+.services-description{
+    color: rgba(39, 39, 39, 0.80);
+}
