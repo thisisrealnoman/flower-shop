@@ -172,6 +172,7 @@ body{
 
 .email-sub-title{
     font-size: 40px;
+    margin: 5px;
 }
 
 .email-sub-description{
@@ -185,4 +186,21 @@ body{
     padding: 18px 100px;
 }
 
+/* footer section */
 
+.footer{
+    background-color: black;
+    text-align: center;
+    color: #FFF;
+    padding: 110px;
+}
+
+.footer-title{
+
+    font-size: 48px;
+    margin: 5px;
+}
+
+.copyright{
+   color: rgba(255, 255, 255, 0.40);
+}
