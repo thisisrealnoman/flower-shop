@@ -1,0 +1,42 @@
+/* common shared styles */
+
+body{
+    font-family: Lato;
+}
+
+.primary-button{
+    border-radius: 8px;
+    background: #E55473;
+    border: 0;
+    padding: 18px 40px;
+    color: white;
+    
+}
+
+
+/* Header related styles */
+
+.header{
+    background-color: rgba(229, 84, 115, 0.10);
+    
+}
+
+.banner{
+    display: flex;
+    align-items: center;
+    padding: 55px 55px 0 100px;
+}
+
+.banner .banner-img{
+    width: 500px;
+    position: bottom left;
+}
+
+.banner-title{
+    font-size: 70px;
+}
+
+.banner-description{
+    color: rgba(39, 39, 39, 0.60);
+
+}
