@@ -106,3 +106,10 @@ body{
 .services-description{
     color: rgba(39, 39, 39, 0.80);
 }
+
+.discount-container{
+    background-color: rgba(229, 84, 115, 0.05);
+    padding: 200px;
+    text-align: center;
+    
+}
